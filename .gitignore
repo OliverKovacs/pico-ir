@@ -1,0 +1,4 @@
+**/frames.*
+**/.cache
+**/build
+**/node_modules
